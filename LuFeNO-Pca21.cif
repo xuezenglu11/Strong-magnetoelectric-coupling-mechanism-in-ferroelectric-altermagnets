@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Lu2FeNO3
+_symmetry_space_group_name_H-M   Pca2_1
+_cell_length_a   5.34932117
+_cell_length_b   11.78236413
+_cell_length_c   5.56890209
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   29
+_chemical_formula_structural   Lu2FeNO3
+_chemical_formula_sum   'Lu8 Fe4 N4 O12'
+_cell_volume   350.99481069
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y, z+1/2'
+  4  'x+1/2, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  4  0.00397014  0.90182878  0.47490893  1
+  Lu  Lu1  4  0.00508420  0.39760383  0.84379728  1
+  Fe  Fe2  4  0.00773113  0.76033139  0.91833078  1
+  N  N3  4  0.08837902  0.91927827  0.87915589  1
+  O  O4  4  0.11649211  0.43478490  0.46844407  1
+  O  O5  4  0.18738290  0.22600499  0.73153632  1
+  O  O6  4  0.19715947  0.70403986  0.61941709  1

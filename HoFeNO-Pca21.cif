@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ho2FeNO3
+_symmetry_space_group_name_H-M   Pca2_1
+_cell_length_a   5.31965609
+_cell_length_b   12.02378229
+_cell_length_c   5.40779248
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   29
+_chemical_formula_structural   Ho2FeNO3
+_chemical_formula_sum   'Ho8 Fe4 N4 O12'
+_cell_volume   345.89531357
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y, z+1/2'
+  4  'x+1/2, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  4  0.00450052  0.40168145  0.45898408  1
+  Ho  Ho1  4  0.01035691  0.89574465  0.06279421  1
+  Fe  Fe2  4  0.00839701  0.26197892  0.00172250  1
+  N  N3  4  0.07325809  0.41983755  0.03046928  1
+  O  O4  4  0.09916643  0.93451760  0.45846869  1
+  O  O5  4  0.19504123  0.73081219  0.19497885  1
+  O  O6  4  0.20259317  0.20999801  0.29699681  1

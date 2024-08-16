@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2FeS3Cl
+_symmetry_space_group_name_H-M   Pca2_1
+_cell_length_a   6.39390136
+_cell_length_b   14.60051887
+_cell_length_c   6.62197774
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   29
+_chemical_formula_structural   Ca2FeS3Cl
+_chemical_formula_sum   'Ca8 Fe4 S12 Cl4'
+_cell_volume   618.18994709
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y, z+1/2'
+  4  'x+1/2, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  4  0.00409147  0.60931551  0.07390570  1
+  Ca  Ca1  4  0.00659757  0.88080478  0.92037682  1
+  Fe  Fe2  4  0.02040767  0.27933213  0.00911937  1
+  S  S3  4  0.09061399  0.42920592  0.97894613  1
+  S  S4  4  0.20032745  0.21902809  0.70897424  1
+  S  S5  4  0.20666976  0.72251740  0.79579812  1
+  Cl  Cl6  4  0.11017343  0.94658583  0.54131504  1
